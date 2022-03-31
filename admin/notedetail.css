@@ -1,0 +1,56 @@
+*{
+padding: 0;
+margin: 0;
+}
+body{
+
+background: rgb(207, 205, 205);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+.content{
+
+width: 800px;
+height: 200px;
+display: flex;
+background: #fff;
+box-sizing: border-box;
+margin-top: 150px;
+}
+.content .logoimg{
+
+margin-left: 50px;
+
+}
+
+.content h2{
+
+margin-left: 20px;
+
+margin-top: 80px;
+
+}
+
+
+.content p{
+
+    width: 300px;
+    margin-top: 50px;
+    font-weight: 600;
+
+
+}
+
+
+
+.content .edit{
+
+    height: 30px;
+    width: 30px;
+    margin-left: 70px;
+    margin-top: 80px;
+
+}

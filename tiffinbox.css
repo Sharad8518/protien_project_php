@@ -1,0 +1,43 @@
+*{
+padding: 0px;
+margin: 0px;
+font-family: 'Open Sans', sans-serif;
+}
+body{
+
+background:#f5f6fa ;
+
+}
+
+
+.tiffin{
+width: 400px;
+height: 400px;
+margin-top: 100px;
+margin-left: 340px;
+
+}
+.tiffin h1{
+
+margin-left: 80px;
+
+}
+@media only screen and (max-width:400px){
+
+    .tiffin{
+        width: 200px;
+        height: 200px;
+        margin-top: 50px;
+        margin-left: 10px;
+        
+        }
+
+        .tiffin h1{
+            font-size: 15px;
+            margin-left: 100px;
+            
+            }
+
+
+
+}

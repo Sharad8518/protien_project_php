@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title></title>
+    <style type="text/css">
+        body{
+            background-image:url(New_York-Airport)
+            background-image:url(tokey Airport)
+            background-image:url(mumbi-Airport)
+            background-image:url()
+            background-size: cover;
+            background-attachment:fixed;
+
+        }
+
+ 
+ 
+    </style>
+</head>
+<body>
+<p>Wellcome to airport</p>
+</body>
+</html>

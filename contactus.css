@@ -1,0 +1,201 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&display=swap');
+
+*{
+    margin: 0;
+padding: 0;
+   
+}
+body{
+  background:#ffff ;
+
+
+
+}
+
+
+
+
+h1{
+
+    font-family: 'Lobster', cursive;
+  text-align: center;
+ margin-top: 20px;
+
+}
+.contactanim{
+width: 200px;
+height: 200px;
+margin-top: 10px;
+margin-left: 400px;
+
+
+}
+.detail{
+  width: 400px;
+  height: 400px;
+  
+  position: relative;
+}
+
+
+.addres{
+display: flex;
+
+
+}
+.addres img{
+width: 20px;
+height: 20px;
+margin-top: 10px;
+margin-left: 20px;
+
+}
+.addres h3{
+margin-top: 6px;
+margin-left: 5px;
+font-family: 'Lobster', cursive;
+
+}
+.peradres p{
+
+  position: absolute;
+margin-top: 5px;
+margin-left: 50px;
+font-family: 'Saira Condensed', sans-serif;
+color: black;
+}
+.phone{
+display: flex;
+margin-top: 40px;
+
+}
+.phone h3{
+  font-family: 'Lobster', cursive;
+margin-left: 5px;
+
+}
+
+
+
+.phone img{
+
+  width: 20px;
+  height: 20px;
+  margin-top: 5px;
+  margin-left: 20px;
+
+}
+.perphone p{
+ margin-top: 5px;
+ margin-left: 50px;
+ font-family: 'Saira Condensed', sans-serif;
+
+}
+.email{
+margin-top: 10px;
+display: flex;
+
+}
+.email img{
+
+  width: 20px;
+  height: 20px;
+  margin-top: 5px;
+  margin-left: 20px;
+}
+.email h3{
+
+  font-family: 'Lobster', cursive;
+  margin-left: 5px;
+}
+.peremail p{
+  margin-top: 5px;
+  margin-left: 50px;
+  font-family: 'Saira Condensed', sans-serif;
+
+
+}
+.inputbox{
+position: absolute;
+margin-top: -400px;
+margin-left: 600px;
+
+}
+.inputbox textarea{
+padding: 10px;
+background: #f5f6fa;
+outline: none;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border:3px solid rgb(226, 176, 12);
+}
+
+
+.inputbox input[type="submit"]{
+  width: 200px;
+margin-top: 20px;
+padding: 10px;
+
+color: #ffff;
+background: rgb(72, 72, 238);
+border: none;
+
+
+}
+@media only screen and (max-width:400px) {
+
+  h1{
+
+    font-family: 'Lobster', cursive;
+  text-align: center;
+ margin-top: 20px;
+
+}
+.contactanim{
+width: 200px;
+height: 200px;
+margin-top: 10px;
+margin-left:90px;
+
+}
+.inputbox{
+  position: absolute;
+  margin-top: -120px;
+  margin-left:20px;
+  
+  }
+  .inputbox textarea{
+  padding: 10px;
+  background: #f5f6fa;
+  border:3px solid rgb(226, 176, 12);
+  
+  }
+  
+  
+  .inputbox input[type="submit"]{
+    width: 200px;
+  margin-top: 20px;
+  margin-left: 50px;
+  padding: 10px;
+  
+  color: #ffff;
+  background: rgb(72, 72, 238);
+  border: none;
+  
+  
+  }
+
+
+
+
+
+
+
+  
+}

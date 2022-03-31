@@ -1,0 +1,67 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+body{
+background: linear-gradient(100deg,#81ecec,#dfe6e9);
+
+
+}
+
+
+
+.box{
+
+width:400px;
+height:500px;
+margin-left:300px;
+background:cornsilk;
+margin-top:50px;
+display: block;
+}
+.box form{
+margin-top:50px ;
+position: absolute;
+display: block;
+
+}
+textarea{
+margin-left: 80px;
+margin-top: 20px;
+padding: 6px;
+
+}
+.box input{
+
+    display: block;
+
+}
+
+
+.box input[type=text]{
+     width: 220px;
+    margin-top: 20px;
+    margin-left: 80px;
+    padding: 7px;
+
+
+
+}
+.box input[type=file]{
+
+margin-left:100px;
+margin-top: 20px;
+
+}
+
+.box input[type=submit]{
+ width: 200px;
+ margin-left: 100px;
+ margin-top: 20px;
+ padding: 7px;
+ border: none;
+ background: #81ecec;
+
+
+}
